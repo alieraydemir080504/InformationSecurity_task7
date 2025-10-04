@@ -47,6 +47,7 @@ We basically just do the same as before, just with a different hash
 <img width="797" height="458" alt="image" src="https://github.com/user-attachments/assets/2bb05ee3-301a-4153-9f96-8213b1352ffe" />
 
 We see, the new hash means "disobey"
+
 <img width="473" height="56" alt="image" src="https://github.com/user-attachments/assets/6a04409a-8ac1-4e7a-9808-e425cf0d72dc" />
 
 ## Sources
